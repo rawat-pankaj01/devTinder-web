@@ -20,3 +20,4 @@
 - Refactor code to create constant file + create a component folder
 - Should not be able to access other routes without login
 - If token is not present, redirect user to login screen
+- Logout feature
