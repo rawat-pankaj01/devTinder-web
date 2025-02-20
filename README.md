@@ -23,3 +23,7 @@
 - Logout feature
 - Get feed and add it in store
 - Build user card and show details.
+- Edit profile feature
+- Toast Message
+- new page to See all connections
+- new page to see all my connection requests
