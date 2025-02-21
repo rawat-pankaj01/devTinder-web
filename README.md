@@ -27,3 +27,5 @@
 - Toast Message
 - new page to See all connections
 - new page to see all my connection requests
+- Feature - Accept/Reject connection request
+- Send/Ignore the user card from the feed
