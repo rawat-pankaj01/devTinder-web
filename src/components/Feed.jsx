@@ -9,7 +9,7 @@ const Feed = () => {
   const dispatch = useDispatch();
   const feed = useSelector(store => store.feed);
   const getFeed = async() => {
-    if (feed) return;
+    if (feed.length) return;
     try {
       const res = await axios.get(BASE_URL + "/feed", {withCredentials: true})
       dispatch(addFeed(res.data));
